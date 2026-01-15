@@ -1,7 +1,7 @@
 # File operations
 
 ## Introduction
-### This Rust-based project implements file system utility functions covering path handling, directory traversal, file metadata, permissions, and efficient file I/O operations. The implementation is modular, uses only Rust’s standard library, and is designed to demonstrate system-level programming concepts and clean code organization.
+#### This Rust-based project implements file system utility functions covering path handling, directory traversal, file metadata, permissions, and efficient file I/O operations. The implementation is modular, uses only Rust’s standard library, and is designed to demonstrate system-level programming concepts and clean code organization.
 
 ## Implemented (311–330)
  ### Path Utilities
